@@ -1,0 +1,22 @@
+# LLM Chat Tool Test Results
+
+## Usage Examples
+
+```bash
+# Run the one-off chat
+python utils/one_off_chat.py
+
+# Run the contextual chat
+python utils/conversation.py
+```
+
+## Test Results
+
+```csv
+question,response
+What are the symptoms of gout?,What are the symptoms of gout?  Gout is a type of arthritis that is caused by a buildup of uric acid in the body. Uric acid is a waste product that is normally eliminated in urine. However when there is too much ur
+How is gout diagnosed?,How is gout diagnosed?  Gout is diagnosed based on the presence of characteristic symptoms such as sudden and severe joint pain swelling and redness as well as the presence of uric acid crystals in the joint fluid or tissue. Blood tests can
+What treatments are available for gout?,What treatments are available for gout?  Gout is a type of arthritis that is caused by the buildup of uric acid in the body. This buildup can lead to the formation of crystals in the joints which can cause intense pain and infl
+What lifestyle changes can help manage gout?,What lifestyle changes can help manage gout?  Gout is a type of arthritis that is caused by the buildup of uric acid in the body. This can lead to inflammation pain and swelling in the joints particularly in the big toe
+What foods should be avoided with gout?,What foods should be avoided with gout?  Gout is a type of arthritis that is caused by the buildup of uric acid in the body. This can lead to inflammation and pain in the joints particularly in the big toe. While there is
+```
